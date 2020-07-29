@@ -1,0 +1,233 @@
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.exe.config
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Registration\Registration\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Registration.pdb
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\System.Buffers.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\System.Memory.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\astra\Desktop\Registration\Registration\bin\Debug\MySql.Data.xml
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.exe.config
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\astra\Desktop\Registration\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\System.Buffers.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\System.Memory.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\astra\source\repos\Registration\Registration\bin\Debug\MySql.Data.xml
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.exe.config
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.AdminForm.resources
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.LoadDumpForm.resources
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.SaveDumpForm.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.AdminForm.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.LoadDumpForm.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.SaveDumpForm.resources
+C:\Users\PC\Desktop\Registration\Registration\obj\Debug\Registration.AddOrg.resources
+C:\Users\astra\source\repos\Registration\Registration\obj\Debug\Registration.AddOrg.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Registration.exe.config
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Registration.exe
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Registration.pdb
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.exe.config
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.AddOrg.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.AdminForm.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.LoadDumpForm.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.SaveDumpForm.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.exe
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.pdb
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.AddReg.resources
+C:\Users\PC\Desktop\Registration — копия — копия\Registration\obj\Debug\Registration.AddStr.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.exe.config
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AddOrg.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AddReg.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AddStr.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AdminForm.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.LoadDumpForm.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.SaveDumpForm.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.exe
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.pdb
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Registration.exe.config
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Registration.exe
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Registration.pdb
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\System.Buffers.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\System.Memory.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\bin\Debug\MySql.Data.xml
+C:\Users\Завтрашний\Downloads\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Registration.exe.config
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Registration.exe
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Registration.pdb
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\System.Buffers.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\System.Memory.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\bin\Debug\MySql.Data.xml
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.exe.config
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AddOrg.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AddReg.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AddStr.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.AdminForm.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.LoadDumpForm.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.SaveDumpForm.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.exe
+C:\Users\Завтрашний\Desktop\PP\Registration — копия — копия\Registration\obj\Debug\Registration.pdb
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Registration.exe.config
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Registration.exe
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Registration.pdb
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\MySqlBackup.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Google.Protobuf.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Zstandard.Net.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\Renci.SshNet.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\System.Buffers.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\System.Memory.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\bin\Debug\MySql.Data.xml
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.exe.config
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.csproj.ResolveComReference.cache
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.AddOrg.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.AddReg.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.AddStr.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.AdminForm.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.connectionStringForm.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.LoadDumpForm.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.SaveDumpForm.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.WorkerForm.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.LoginForm.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.Properties.Resources.resources
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.csproj.CopyComplete
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.exe
+C:\Users\Akarin\source\repos\Zavtrashnii\Registration\obj\Debug\Registration.pdb
